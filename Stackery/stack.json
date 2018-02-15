@@ -13,7 +13,9 @@
       "location": "inline",
       "envVars": {},
       "wires": [
-        []
+        [
+          "b56ffa09"
+        ]
       ]
     },
     {
@@ -57,6 +59,23 @@
         [
           "8976a428"
         ]
+      ]
+    },
+    {
+      "id": "b56ffa09",
+      "type": "function",
+      "x": 600,
+      "y": 220,
+      "name": "aaa",
+      "outputs": 1,
+      "memorySize": 1024,
+      "timeout": 30,
+      "runtime": "nodejs",
+      "location": "inline",
+      "envVars": {},
+      "entryPoint": "",
+      "wires": [
+        []
       ]
     }
   ]
