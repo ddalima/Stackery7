@@ -7,7 +7,7 @@ module.exports = function handler(request, context, callback) {
 
   // Build a response.
   let responseBody = `
-    <h4>You sent the following message:</h4>
+    <h4>You sent the following message: test-</h4>
     <p>${message}</p>
   `;
 

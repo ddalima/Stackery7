@@ -41,6 +41,7 @@
       "runtime": "nodejs",
       "location": "inline",
       "envVars": {},
+      "entryPoint": "",
       "wires": [
         []
       ]
