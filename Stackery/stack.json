@@ -14,7 +14,8 @@
       "envVars": {},
       "wires": [
         [
-          "b56ffa09"
+          "b56ffa09",
+          "de0b80df"
         ]
       ]
     },
@@ -74,6 +75,20 @@
       "location": "inline",
       "envVars": {},
       "entryPoint": "",
+      "wires": [
+        []
+      ]
+    },
+    {
+      "id": "de0b80df",
+      "type": "function",
+      "x": 620,
+      "y": 295,
+      "outputs": 1,
+      "memorySize": 3008,
+      "timeout": 30,
+      "location": "inline",
+      "envVars": {},
       "wires": [
         []
       ]
