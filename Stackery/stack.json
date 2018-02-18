@@ -98,7 +98,10 @@
       "type": "timer",
       "x": 210,
       "y": 390,
+      "name": "Timerrr",
       "timerType": "interval",
+      "intervalCount": 2,
+      "intervalUnit": "minutes",
       "wires": [
         [
           "667df0e5"
